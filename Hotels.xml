@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Hotels>
+	<Hotel Rating="4.3">
+		<Name>The Westin Tempe</Name>
+		<Phone>480-968-8885</Phone>
+		<Address NearestAirport="Sky Harbor">
+			<Number>11</Number>
+			<Street>E 7th St</Street>
+			<City>Tempe</City>
+			<State>AZ</State>
+			<Zip>85281</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Rating="4.3">
+		<Name>Arizona Grand</Name>
+		<Phone>602-438-9000</Phone>
+		<Address NearestAirport="Sky Harbor">
+			<Number>8000</Number>
+			<Street>S Arizona Grand Parkway</Street>
+			<City>Phoenix</City>
+			<State>AZ</State>
+			<Zip>85044</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Rating="4.4">
+		<Name>Scottsdale Marriott at McDowell Mountains</Name>
+		<Phone>480-502-3836</Phone>
+		<Address NearestAirport="Scottsdale Airport">
+			<Number>16770</Number>
+			<Street>N Perimeter Drive</Street>
+			<City>Scottsdale</City>
+			<State>AZ</State>
+			<Zip>85260</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Rating="4.9">
+		<Name>The Ritz-Carlton, Paradise Valley</Name>
+		<Phone>602-922-2900</Phone>
+		<Address NearestAirport="Sky Harbor">
+			<Number>7000</Number>
+			<Street>E Lincoln Drive</Street>
+			<City>Paradise Valley</City>
+			<State>AZ</State>
+			<Zip>85253</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Rating="4.5">
+		<Name>Omni Tempe</Name>
+		<Phone>602-794-8600</Phone>
+		<Address NearestAirport="Sky Harbor">
+			<Number>7</Number>
+			<Street>E University Drive</Street>
+			<City>Tempe</City>
+			<State>AZ</State>
+			<Zip>85281</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Rating="4.3">
+		<Name>Talking Stick Resort</Name>
+		<Phone>480-850-7777</Phone>
+		<Address NearestAirport="Sky Harbor">
+			<Number>9800</Number>
+			<Street>Talking Stick Way</Street>
+			<City>Scottsdale</City>
+			<State>AZ</State>
+			<Zip>85256</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Rating="4.6">
+		<Name>Fairmont Scottsdale Princess</Name>
+		<Phone>480-585-4848</Phone>
+		<Address NearestAirport="Scottsdale Airport">
+			<Number>7575</Number>
+			<Street>E Princess Drive</Street>
+			<City>Scottsdale</City>
+			<State>AZ</State>
+			<Zip>85255</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Rating="4.7">
+		<Name>Four Seasons Resort Scottsdale</Name>
+		<Phone>480-515-5700</Phone>
+		<Address NearestAirport="Scottsdale Airport">
+			<Number>10600</Number>
+			<Street>E Crescent Moon Drive</Street>
+			<City>Scottsdale</City>
+			<State>AZ</State>
+			<Zip>85262</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Rating="4.1">
+		<Name>The McCormick Scottsdale</Name>
+		<Phone>800-535-1865</Phone>
+		<Address NearestAirport="Sky Harbor">
+			<Number>7421</Number>
+			<Street>N Scottsdale Road</Street>
+			<City>Scottsdale</City>
+			<State>AZ</State>
+			<Zip>85283</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Rating="4.6">
+		<Name>The Westin Kierland</Name>
+		<Phone>480-624-1000</Phone>
+		<Address NearestAirport="Scottsdale Airport">
+			<Number>6902</Number>
+			<Street>E Greenway Parkway</Street>
+			<City>Scottsdale</City>
+			<State>AZ</State>
+			<Zip>85254</Zip>
+		</Address>
+	</Hotel>
+</Hotels>
+
+
