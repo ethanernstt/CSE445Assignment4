@@ -2,7 +2,7 @@
 <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
 	xmlns="http://ethanernstt.github.io/CSE455Assigment4"
 	targetNamespace="http://ethanernstt.github.io/CSE455Assignment4"
-	elementFormDefault="qualified"attributeFormDefault="unqualified">
+	elementFormDefault="qualified" attributeFormDefault="unqualified">
 	<xs:element name="Hotels">
 		<xs:complexType>
 			<xs:sequence>
